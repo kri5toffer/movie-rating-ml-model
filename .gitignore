@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+**/.DS_Store
+
+# Large data files
+Testing Data Files/TMDB_text_features_bow.zip
+Testing Data Files/TMDB_text_features_tfidf.zip
+Testing Data Files/TMDB_unlabelled.csv
+Testing Data Files/TMDB_text_features_bow/
+Testing Data Files/TMDB_text_features_tfidf/
+Testing Data Files/TMDB_unlabelled.csv.zip
+
+# Temporary files
+~$* 
